@@ -1,4 +1,4 @@
-# Fullscreen to Empty Workspace for Gnome 46
+# Fullscreen to Empty Workspace for Gnome
 New, maximized and fullscreen windows will be moved to empty workspaces. The extension provides options to configure what types of windows should be moved. Supports multiple monitors.
 
 ## Installation
